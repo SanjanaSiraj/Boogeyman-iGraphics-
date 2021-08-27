@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1493431842 source:c:\users\sanjana\desktop\project testrun\project_testrun\imain.cpp
+	"iGraphics.h"
+
+1493810122 c:\users\sanjana\desktop\project testrun\project_testrun\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1566399964 source:c:\users\sanjana\desktop\project_testrun\imain.cpp
+	"iGraphics.h"
+	"windows.h"
+
+1493810122 c:\users\sanjana\desktop\project_testrun\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1568528884 source:c:\users\sanjana\desktop\project_testrun\textinputdemo.cpp
+	"iGraphics.h"
+	"windows.h"
+
+1568541545 source:c:\users\sanjana\desktop\boogeyman\boogeyman_1805041_1805037.cpp
+	"iGraphics.h"
+	"windows.h"
+
+1493810122 c:\users\sanjana\desktop\boogeyman\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+

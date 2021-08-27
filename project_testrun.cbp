@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="project_testrun" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/project_testrun" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="opengl32" />
+					<Add library="glu32" />
+					<Add library="glut32" />
+					<Add library="glaux" />
+					<Add library="winmm" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/project_testrun" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="BACK BUTTON.bmp" />
+		<Unit filename="DEATH.bmp" />
+		<Unit filename="DOOR.bmp" />
+		<Unit filename="EASY BUTTON.bmp" />
+		<Unit filename="FINAL BGMENU.bmp" />
+		<Unit filename="HARD BUTTON.bmp" />
+		<Unit filename="INSTRUCTION PAGE 2.bmp" />
+		<Unit filename="INSTRUCTIONS BUTTON.bmp" />
+		<Unit filename="LEVEL BUTTON.bmp" />
+		<Unit filename="LEVELS.bmp" />
+		<Unit filename="MEDIUM BUTTON.bmp" />
+		<Unit filename="MENU BUTTON.bmp" />
+		<Unit filename="NEXT BUTTON.bmp" />
+		<Unit filename="QUIT BUTTON.bmp" />
+		<Unit filename="VENT.bmp" />
+		<Unit filename="WARDROBE.bmp" />
+		<Unit filename="WINDOW.bmp" />
+		<Unit filename="bg door.wav" />
+		<Unit filename="bg instruction page.bmp" />
+		<Unit filename="bg menu.wav" />
+		<Unit filename="bg off light off door.bmp" />
+		<Unit filename="bg off light off vent.bmp" />
+		<Unit filename="bg off light off wardrobe.bmp" />
+		<Unit filename="bg off light off window.bmp" />
+		<Unit filename="bg off light on door.bmp" />
+		<Unit filename="bg off light on vent.bmp" />
+		<Unit filename="bg off light on wardrobe.bmp" />
+		<Unit filename="bg off light on window.bmp" />
+		<Unit filename="bg on light off door.bmp" />
+		<Unit filename="bg on light off vent.bmp" />
+		<Unit filename="bg on light off wardrobe.bmp" />
+		<Unit filename="bg on light off window.bmp" />
+		<Unit filename="bg on light on door.bmp" />
+		<Unit filename="bg on light on vent.bmp" />
+		<Unit filename="bg on light on wardrobe.bmp" />
+		<Unit filename="bg on light on window.bmp" />
+		<Unit filename="bg vent.wav" />
+		<Unit filename="bg wardrobe.wav" />
+		<Unit filename="bg12.bmp" />
+		<Unit filename="bg13.bmp" />
+		<Unit filename="bg14.bmp" />
+		<Unit filename="bg15.bmp" />
+		<Unit filename="bg16.bmp" />
+		<Unit filename="bg17.bmp" />
+		<Unit filename="bg18.bmp" />
+		<Unit filename="bg19.bmp" />
+		<Unit filename="bg20.bmp" />
+		<Unit filename="boogeyman_1805041_1805037.cpp" />
+		<Unit filename="death.wav" />
+		<Unit filename="distraction.wav" />
+		<Unit filename="ending winner.bmp" />
+		<Unit filename="iGraphics.h" />
+		<Unit filename="knife.wav" />
+		<Unit filename="play button.bmp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
